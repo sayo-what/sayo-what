@@ -1,17 +1,32 @@
-### Hi there 👋
+# Hi, I'm Alisa 👋
+Quality Assurance Engineer with more than 1 year of commertial experience. 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=sayo-what&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=sayo-what&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/sayo-what/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayo-what&layout=compact"/></a>
+</p>
 
-<!--
-**sayo-what/sayo-what** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://www.linkedin.com/in/sayo-what/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:alisadrumi@gmail.com'>alisadrumi@gmail.com</a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ISTQB
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about birds
-- 📫 How to reach me: https://www.linkedin.com/in/alisa-drumi/ 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-https://t.me/Da_ya_Alisa_a_chto/img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+
+# 🛠 Technical Stack
+*   Java/Kotlin/Groovy/COBOL languages
+*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
+*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
+*   Camunda, Camunda Cockpit, Camunda Modeleter
+*   GitHub/GitLab/Gerrit/Bitbucket
+
+   </a>
+</div>
