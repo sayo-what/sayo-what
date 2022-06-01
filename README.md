@@ -1,15 +1,9 @@
 # Hi, I'm Alisa 👋
 Quality Assurance Engineer with more than 1 year of commertial experience. 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=sayo-what&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=sayo-what&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/sayo-what/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayo-what&layout=compact"/></a>
-</p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/sayo-what/">
+   <a href="https://www.linkedin.com/in/alisa-drumi/sayo-what/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
