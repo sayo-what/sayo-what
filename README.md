@@ -1,12 +1,5 @@
 # Hi, I'm Alisa 👋
 Quality Assurance Engineer with more than 1 year of commertial experience. 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=sayo-what&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=sayo-what&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/sayo-what/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayo-what&layout=compact"/></a>
-</p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/sayo-what/">
@@ -32,3 +25,8 @@ Quality Assurance Engineer with more than 1 year of commertial experience.
 
    </a>
 </div>
+<p align='left'>
+   <a href="https://github-readme-stats.vercel.app/api?username=sayo-what&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=sayo-what&show_icons=true&count_private=true"/></a>
+   </p>
