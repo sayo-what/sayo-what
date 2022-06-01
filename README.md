@@ -2,7 +2,9 @@
 Quality Assurance Engineer with more than 1 year of commertial experience. 
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/sayo-what/">
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/alisa-drumi/sayo-what/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    
