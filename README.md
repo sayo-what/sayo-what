@@ -11,9 +11,13 @@ Quality Assurance Engineer with more than 1 year of commertial experience.
    <a href="https://t.me/Da_ya_Alisa_a_chto">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+   
    <a href="https://web.whatsapp.com"/>
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      <whatsapp-button phone="77824829" dialcode="373" text="hello!" label="Start Chat"></whatsapp-button>
    </a>
+   
+
    
 <p align='center'>
    📫 How to reach me: <a href='mailto:alisadrumi@gmail.com'>alisadrumi@gmail.com</a>
