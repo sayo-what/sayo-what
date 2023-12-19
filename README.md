@@ -1,5 +1,5 @@
 # Hi, I'm Alisa 👋
-Quality Assurance Engineer with more than 1 year of commertial experience. 
+Quality Assurance Engineer with 2 years of commertial experience. 
 
 <p align='center'>
 
@@ -31,7 +31,7 @@ Quality Assurance Engineer with more than 1 year of commertial experience.
 * Using browser dev tools - inspect and analyze HTTP requests, layout scope HTML 
 * Documentation, reports - test cases, bugs, test-plans
 * Work with dev-teams using Agile (Scrum), Kanban
-* Jira, Confluence, TestRail, Wireshark, Figma, Zeplin, Atlassian
+* Jira, Confluence, TestRail, Wireshark, Figma, Zeplin, Atlassian, TestMo
 * Understanding Software Testing Life Cycle(SDLC/STLC)
 
    </a>
