@@ -42,5 +42,6 @@
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sayo-what&show_icons=true&count_private=true&theme=vibrant" alt="Alisa's Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sayo-what&show_icons=true&count_private=true&theme=react&hide_border=true" alt="Alisa's Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayo-what&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
